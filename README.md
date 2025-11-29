@@ -15,7 +15,7 @@ NEW VERSION AVAILABLE!
 
 # Cash App Clone
 
-This is a clone of the Cash App, which allows you to change your balance. Please note that this project was originally written by Ethan and has been modified to work specifically on iPhone 11 by [me](https://github.com/culturally).
+This is a clone of the Cash App, which allows you to change your balance. Please note that this project was originally written by Ethan and has been modified to work specifically on iPhone 11 by (me](https://github.com/culturally).
 
 ![](https://github.com/culturally/CashApp/blob/main/example.jpg?raw=true)
 
